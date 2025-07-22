@@ -1,0 +1,86 @@
+/* Main background */
+.stApp {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    color: #ffffff;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background-color: rgba(26, 26, 46, 0.9) !important;
+    backdrop-filter: blur(10px);
+}
+
+/* Cards and containers */
+.st-bh, .st-cg, .st-ci, .st-ck {
+    background-color: rgba(26, 26, 46, 0.7) !important;
+    border-radius: 10px !important;
+    padding: 15px !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    color: #ffffff !important;
+}
+
+/* Buttons */
+.st-b8 {
+    background: linear-gradient(to right, #30CFD0, #c43ad6) !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 25px !important;
+    padding: 8px 20px !important;
+    transition: all 0.3s ease !important;
+}
+
+.st-b8:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 0 7px 14px rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Text input */
+.st-bw {
+    background-color: rgba(146, 190, 232, 0.1) !important;
+    color: white !important;
+    border-radius: 8px !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Slider */
+.st-ca {
+    color: #30CFD0 !important;
+}
+
+/* Progress bar */
+.st-cj {
+    background: linear-gradient(to right, #30CFD0, #c43ad6) !important;
+    height: 10px !important;
+    border-radius: 5px !important;
+}
+
+/* Tabs */
+.st-cd {
+    background-color: transparent !important;
+}
+
+.st-cc {
+    background-color: rgba(26, 26, 46, 0.7) !important;
+    border-radius: 8px 8px 0 0 !important;
+    padding: 10px 20px !important;
+    margin-right: 5px !important;
+}
+
+.st-cc:hover {
+    background-color: rgba(48, 207, 208, 0.2) !important;
+}
+
+.st-bz {
+    background-color: rgba(48, 207, 208, 0.3) !important;
+    border-bottom: 2px solid #30CFD0 !important;
+}
+
+/* Metric styling */
+.st-emotion-cache-1b0udgb {
+    color: #ffffff !important;  /* Main value color */
+}
+
+.st-emotion-cache-1c7y2kd {
+    color: #ffffff !important;  /* Label color */
+}
